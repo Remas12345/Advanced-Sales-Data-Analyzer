@@ -1,2 +1,2 @@
 # Advanced-Sales-Data-Analyzer
-Advanced sales data analysis using Python and pandas. Includes data cleaning, aggregation, and insights generation.
+This project analyzes sales data using Python and pandas to generate useful insights such as total sales, best-selling product, and summary reports.
