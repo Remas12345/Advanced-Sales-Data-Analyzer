@@ -1,16 +1,17 @@
 # Advanced Sales Data Analyzer
 
-A simple data analysis project built with Python and pandas.
+A Python data analysis project that analyzes sales data and generates useful business insights.
 
 ## Overview
 
-This project analyzes sales data from a CSV file and generates useful business insights such as total revenue, best-performing product, top category, and product-level sales summary.
+This project loads sales data from a CSV file, calculates revenue, identifies the best-performing product and category, and prints a clear product-level summary.
 
 ## Features
 
 - Load sales data from CSV
+- Clean and validate numeric data
 - Calculate total revenue
-- Identify best-selling product
+- Identify best-performing product
 - Identify top-performing category
 - Calculate average order value
 - Generate product summary report
@@ -23,9 +24,10 @@ This project analyzes sales data from a CSV file and generates useful business i
 
 ## Files
 
-- `main.py` — main Python script
+- `main.py` — main analysis script
 - `sales.csv` — sample sales dataset
-- `requirements.txt` — required Python libraries
+- `requirements.txt` — required library
+- `README.md` — project documentation
 
 ## How to Run
 
@@ -39,6 +41,16 @@ Run the project:
 
 ```bash
 python main.py
+```
+
+## Sample Output
+
+```text
+=== Advanced Sales Data Analyzer ===
+Total Revenue: $12,190.00
+Best Product: Laptop
+Top Category: Electronics
+Average Order Value: $1,219.00
 ```
 
 ## Author
