@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity
+1001,Laptop,Electronics,1200,2
+1002,Phone,Electronics,800,3
+1003,Headphones,Accessories,150,5
+1004,Monitor,Electronics,300,4
+1005,Keyboard,Accessories,90,6
+1006,Laptop,Electronics,1200,1
+1007,Mouse,Accessories,45,10
+1008,Phone,Electronics,800,2
+1009,Chair,Furniture,250,3
+1010,Desk,Furniture,500,2
